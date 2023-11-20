@@ -22,4 +22,4 @@ ToNetworkGraph.ipnyb;
 - All visualization was done using Power BI.
 
 ## Final Results ##
-[- sites.google.com](https://sites.google.com/view/altonyuyyc7562/)
+[Data Visualization on Foreign Interference](https://sites.google.com/view/altonyuyyc7562/)
